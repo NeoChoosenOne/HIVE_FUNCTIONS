@@ -1,0 +1,6 @@
+com\cbds\hive\functions\MaxRate.class
+com\cbds\hive\functions\ToUpperCase.class
+com\cbds\hive\functions\PromedioUDAF$AverageUDAFEvaluator.class
+com\cbds\hive\functions\ChooseClassUDTF.class
+com\cbds\hive\functions\PromedioUDAF$AverageUDAFEvaluator$Item.class
+com\cbds\hive\functions\PromedioUDAF.class
